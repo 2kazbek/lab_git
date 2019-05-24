@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mkdir Music
+cp -R /home/suzen/Desktop/music/ololo /home/suzen/Music/
+cp -R /home/suzen/Desktop/music/azaza /home/suzen/Music/
+ls
