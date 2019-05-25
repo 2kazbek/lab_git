@@ -1,4 +1,4 @@
-# lab_git
+# laba_git
 
 Besaev Kazbek Vyacheslavovich
 
