@@ -1,6 +1,8 @@
 # Лабораторная работа №2
 ## Здесь я постараюсь полностью рассказать и показать на что у меня ушло много часов жизни
 
+### Part 1
+
 Самое начало работы
 просто менюшка с информацией о дисках
 
@@ -14,3 +16,7 @@
 Туть мы закончили настройку LVM
 
 ![alt text](https://github.com/2kazbek/lab_git/blob/master/lab2/screenshots/part1/7.konechnaya_nastroika_LVM.png)
+
+Вот такую красивую информацию о дисках и RAID мы получили в начале работы, после копирования раздела /boot
+
+![alt text](https://github.com/2kazbek/lab_git/blob/master/lab2/screenshots/part1/10.pervaya_informatsiya_o_diskah.png)
