@@ -20,3 +20,4 @@
 Вот такую красивую информацию о дисках и RAID мы получили в начале работы, после копирования раздела /boot
 
 ![alt text](https://github.com/2kazbek/lab_git/blob/master/lab2/screenshots/part1/10.pervaya_informatsiya_o_diskah.png)
+![alt text](https://github.com/2kazbek/lab_git/blob/master/lab2/screenshots/part1/11.pervaya_informatsiya_o_RAID.png)
